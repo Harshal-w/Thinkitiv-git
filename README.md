@@ -1,3 +1,5 @@
 # Thinkitiv-git
+
 This is first git repo of thinkitive
-Auther: Harshal
+<br>
+Auther: Harshal ( Employee Thinkitive)
